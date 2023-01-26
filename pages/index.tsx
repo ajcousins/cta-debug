@@ -12,9 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Wrapper>
-        CTA Debug
-        </Wrapper>
+        <Wrapper />
       </main>
     </>
   )
